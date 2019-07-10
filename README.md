@@ -26,13 +26,13 @@ If you are starting on week 0, skip any tasks that are repeated in later weeks&m
 3. [x] Read Lean Python, Chapters 3-6
 4. [x] Sign up for CodeWars.com
 5. [x] Attempt to solve one-to-three python challanges which are either `7kyu` or `8kyu`
-6. [ ] Read Lean Python, Chapters 6-8
-7. [ ] Read [Comparison of Python v2 vs v3 from python.org](https://wiki.python.org/moin/Python2orPython3)
+6. [x] Read Lean Python, Chapters 7-8
+7. [x] Read [Comparison of Python v2 vs v3 from python.org](https://wiki.python.org/moin/Python2orPython3)
 
 ### Week 2
 
-1. [ ] Complete the [CodeAcademy.com Python Course](https://www.codecademy.com/learn/python) (only the free content)
-2. [ ] Read Lean Python, Chapters 8-11
+1. [x] Complete the [CodeAcademy.com Python Course](https://www.codecademy.com/learn/python) (only the free content)
+2. [ ] Read Lean Python, Chapters 9-11
 3.  [ ] Read [Seemingly Inverse Logic](http://lucumr.pocoo.org/2011/7/9/python-and-pola/#seemingly-inverse-logic). 
   Article gives insight and reasoning behind some of python's peculiarities. 
 4. [ ] Install a library using pip.
