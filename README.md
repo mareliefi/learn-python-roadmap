@@ -35,7 +35,7 @@ If you are starting on week 0, skip any tasks that are repeated in later weeks&m
 2. [x] Read Lean Python, Chapters 9-11
 3.  [x] Read [Seemingly Inverse Logic](http://lucumr.pocoo.org/2011/7/9/python-and-pola/#seemingly-inverse-logic). 
   Article gives insight and reasoning behind some of python's peculiarities. 
-4. [ ] Install a library using pip.
+4. [x] Install a library using pip.
 5. [ ] Choose and complete a project from the projects list.
 
 ### Week 3
