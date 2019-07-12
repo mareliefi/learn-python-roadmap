@@ -56,7 +56,7 @@ _Challenges Week._
 
 ## Projects
 
-- [ ] Create a module that checks if a haiku is following proper format (5-7-5 syllable pattern)
+- [x] Create a module that checks if a haiku is following proper format (5-7-5 syllable pattern)
 - [ ] Create a slackbot (HTTP server) for rolling dice via `/roll`.
 - [ ] Create a module  that calculates statistical methods. (Mean, Median, Mode, standard deviation, and variance.
 - [ ] Create a module that outputs the Fibonnacci Sequence up to `n` terms. `n` should default to 100.
