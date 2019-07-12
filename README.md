@@ -43,7 +43,7 @@ If you are starting on week 0, skip any tasks that are repeated in later weeks&m
 Project Week
 
 1. [x] Review the table of contents of [Learn Python the Hard Way](https://learnpythonthehardway.org/book/). Look for language facets that you do not recognize, and read their entries. Cross-reference with python documentation, if needed.
-2. [ ] Solve three to five python challenges which are '`7kyu`'
+2. [x] Solve three to five python challenges which are '`7kyu`'
 3. [ ] Choose and complete a project from the projects list.
 
 
