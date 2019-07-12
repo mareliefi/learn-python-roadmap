@@ -36,13 +36,13 @@ If you are starting on week 0, skip any tasks that are repeated in later weeks&m
 3.  [x] Read [Seemingly Inverse Logic](http://lucumr.pocoo.org/2011/7/9/python-and-pola/#seemingly-inverse-logic). 
   Article gives insight and reasoning behind some of python's peculiarities. 
 4. [x] Install a library using pip.
-5. [ ] Choose and complete a project from the projects list.
+5. [x] Choose and complete a project from the projects list.
 
 ### Week 3
 
 Project Week
 
-1. [ ] Review the table of contents of [Learn Python the Hard Way](https://learnpythonthehardway.org/book/). Look for language facets that you do not recognize, and read their entries. Cross-reference with python documentation, if needed.
+1. [x] Review the table of contents of [Learn Python the Hard Way](https://learnpythonthehardway.org/book/). Look for language facets that you do not recognize, and read their entries. Cross-reference with python documentation, if needed.
 2. [ ] Solve three to five python challenges which are '`7kyu`'
 3. [ ] Choose and complete a project from the projects list.
 
