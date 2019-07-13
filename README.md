@@ -51,7 +51,7 @@ Project Week
 
 _Challenges Week._
 
-1. [ ] Solve as many python challenges which as possible to achieve '`7kyu`'/'`6kyu`'/'`5kyu`' rank on codewars.
+1. [x] Solve as many python challenges which as possible to achieve '`7kyu`'/'`6kyu`'/'`5kyu`' rank on codewars.
 2. [ ] Choose and complete a project from the projects list.
 
 ## Projects
