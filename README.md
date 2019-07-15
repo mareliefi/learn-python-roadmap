@@ -44,7 +44,7 @@ Project Week
 
 1. [x] Review the table of contents of [Learn Python the Hard Way](https://learnpythonthehardway.org/book/). Look for language facets that you do not recognize, and read their entries. Cross-reference with python documentation, if needed.
 2. [x] Solve three to five python challenges which are '`7kyu`'
-3. [ ] Choose and complete a project from the projects list.
+3. [x] Choose and complete a project from the projects list.
 
 
 ### Week 4
@@ -57,7 +57,7 @@ _Challenges Week._
 ## Projects
 
 - [x] Create a module that checks if a haiku is following proper format (5-7-5 syllable pattern)
-- [ ] Create a slackbot (HTTP server) for rolling dice via `/roll`.
+- [x] Create a slackbot (HTTP server) for rolling dice via `/roll`.
 - [ ] Create a module  that calculates statistical methods. (Mean, Median, Mode, standard deviation, and variance.
 - [ ] Create a module that outputs the Fibonnacci Sequence up to `n` terms. `n` should default to 100.
 - [ ] Create a module with two functions, one which parses and compiles markdown into html, and the other jade into html.
