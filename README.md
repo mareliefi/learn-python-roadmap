@@ -52,14 +52,14 @@ Project Week
 _Challenges Week._
 
 1. [x] Solve as many python challenges which as possible to achieve '`7kyu`'/'`6kyu`'/'`5kyu`' rank on codewars.
-2. [ ] Choose and complete a project from the projects list.
+2. [x] Choose and complete a project from the projects list.
 
 ## Projects
 
 - [x] Create a module that checks if a haiku is following proper format (5-7-5 syllable pattern)
 - [x] Create a slackbot (HTTP server) for rolling dice via `/roll`.
-- [ ] Create a module  that calculates statistical methods. (Mean, Median, Mode, standard deviation, and variance.
-- [ ] Create a module that outputs the Fibonnacci Sequence up to `n` terms. `n` should default to 100.
+- [x] Create a module  that calculates statistical methods. (Mean, Median, Mode, standard deviation, and variance.
+- [] Create a module that outputs the Fibonnacci Sequence up to `n` terms. `n` should default to 100.
 - [ ] Create a module with two functions, one which parses and compiles markdown into html, and the other jade into html.
 
 Want to add a project? Open a PR!
